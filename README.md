@@ -1,7 +1,8 @@
 <div align="center">
  
-# Glow Text Button
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=tiny&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Tanish's+Porfolio)](https://git.io/typing-svg)
+### Note: This is a fork from *insert link here future me* I have editted this so I can use it in my other projects (basically seperated stuff and changed from styling all buttons to just the ones with class specified.
+#### Fell free to use for yourself
 </div>
 
 ## Table of contents
