@@ -22,15 +22,12 @@
 	top: 2rem;
 	right: 2rem;
 }
-body {
+.techStackContainer {
 	display: flex;
 	place-items: center;
 	gap: 1rem;
 	flex-wrap: wrap;
 	justify-content: center;
-	min-height: 100vh;
-	font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif, system-ui;
-	background: var(--bg);
 }
 .techStackButton {
 	border-radius: 1rem;
