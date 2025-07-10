@@ -31,6 +31,7 @@ body {
 	gap: 1rem;
 	flex-wrap: wrap;
 	justify-content: center;
+	height: 100vh;
 }
 .techStackButton {
 	border-radius: 1rem;
