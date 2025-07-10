@@ -32,7 +32,7 @@ body {
 	font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif, system-ui;
 	background: var(--bg);
 }
-button {
+.techStackButton {
 	border-radius: 1rem;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -50,7 +50,7 @@ button {
 	position: relative;
 	padding: 1rem 2rem;
 }
-button::before {
+.techStackButtonutton::before {
 	content: "";
 	position: absolute;
 	inset: 0;
@@ -59,7 +59,7 @@ button::before {
 	z-index: 2;
 	border-radius: 1rem;
 }
-button span {
+.techStackButton span {
 	background: var(--glow), black;
 	background-clip: text;
 	color: transparent;
@@ -72,7 +72,7 @@ button span {
 :root:has(button:active) {
 	--size: 300px;
 }
-button::after {
+.techStackButton::after {
 	content: "";
 	position: absolute;
 	inset: -4px;
